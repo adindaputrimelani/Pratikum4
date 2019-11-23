@@ -8,7 +8,11 @@ ALUR ALGORITMA PROGRAM:
 
 CODE PROGRAM:
 
+![Screenshot (80)](https://user-images.githubusercontent.com/57041175/69479156-d5690180-0e2c-11ea-89d1-4ff26eb352fb.png)
+
 CONTOH HASIL PROGRAM:
+
+![Screenshot (79)](https://user-images.githubusercontent.com/57041175/69479163-e7e33b00-0e2c-11ea-885b-c412c8d6fdba.png)
 
 FLOWCHART:
 
